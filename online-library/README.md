@@ -60,14 +60,14 @@ online-library/
 Here are some screenshots of the application:
 
 1. **Home Page**
-   ![Home Page](c:\Users\kunal\OneDrive\Pictures\Screenshots\Screenshot 2025-04-26 131840.png)
+  ![Screenshot 2025-04-26 131840](https://github.com/user-attachments/assets/4fa873fa-efbe-4dc8-a99f-53a7d6f05657) 
 
 2. **Browse Books Page**
-   ![Browse Books Page](c:\Users\kunal\OneDrive\Pictures\Screenshots\Screenshot 2025-04-26 131905.png)
+  ![Screenshot 2025-04-26 131905](https://github.com/user-attachments/assets/2e42047d-0312-4ca6-ae26-df597871bdfb)
 
 3. **Add Book Page**
-   ![Add Book Page](c:\Users\kunal\OneDrive\Pictures\Screenshots\Screenshot 2025-04-26 131949.png)
-
+   ![Screenshot 2025-04-26 131949](https://github.com/user-attachments/assets/5609a49d-4705-424e-af3d-46d92d83c8ea)
+   
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
